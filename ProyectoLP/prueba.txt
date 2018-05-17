@@ -1,0 +1,7 @@
+4 4
+Ana Karla Ursula Carlos Ursula Karla Karla Carlos
+4 1
+Ana Carlos Ursula Karla
+6 5 
+Donald Francisco Ana Karla Ursula Carlos Ursula Karla Karla Carlos
+0 0
